@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/guess-number-app/static/js/main.0b18548b.chunk.js",
-    "main.js.map": "/guess-number-app/static/js/main.0b18548b.chunk.js.map",
-    "runtime-main.js": "/guess-number-app/static/js/runtime-main.016e69fb.js",
-    "runtime-main.js.map": "/guess-number-app/static/js/runtime-main.016e69fb.js.map",
-    "static/js/2.f16c0560.chunk.js": "/guess-number-app/static/js/2.f16c0560.chunk.js",
-    "static/js/2.f16c0560.chunk.js.map": "/guess-number-app/static/js/2.f16c0560.chunk.js.map",
-    "index.html": "/guess-number-app/index.html",
-    "precache-manifest.47c9d748c3692dab222992b110b9c408.js": "/guess-number-app/precache-manifest.47c9d748c3692dab222992b110b9c408.js",
-    "service-worker.js": "/guess-number-app/service-worker.js",
-    "static/js/2.f16c0560.chunk.js.LICENSE.txt": "/guess-number-app/static/js/2.f16c0560.chunk.js.LICENSE.txt"
+    "main.js": "/guess-number-game/static/js/main.a01b1a4d.chunk.js",
+    "main.js.map": "/guess-number-game/static/js/main.a01b1a4d.chunk.js.map",
+    "runtime-main.js": "/guess-number-game/static/js/runtime-main.905e6195.js",
+    "runtime-main.js.map": "/guess-number-game/static/js/runtime-main.905e6195.js.map",
+    "static/js/2.f16c0560.chunk.js": "/guess-number-game/static/js/2.f16c0560.chunk.js",
+    "static/js/2.f16c0560.chunk.js.map": "/guess-number-game/static/js/2.f16c0560.chunk.js.map",
+    "index.html": "/guess-number-game/index.html",
+    "precache-manifest.381f4a67b8b93fd8a37780c8a48ec345.js": "/guess-number-game/precache-manifest.381f4a67b8b93fd8a37780c8a48ec345.js",
+    "service-worker.js": "/guess-number-game/service-worker.js",
+    "static/js/2.f16c0560.chunk.js.LICENSE.txt": "/guess-number-game/static/js/2.f16c0560.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.016e69fb.js",
+    "static/js/runtime-main.905e6195.js",
     "static/js/2.f16c0560.chunk.js",
-    "static/js/main.0b18548b.chunk.js"
+    "static/js/main.a01b1a4d.chunk.js"
   ]
 }
