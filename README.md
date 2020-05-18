@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Project: Guessing Number Game
+Tis project was built with React Components
+
 ## Available Scripts
 
 In the project directory, you can run:
